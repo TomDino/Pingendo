@@ -1,3 +1,3 @@
 $('.burger').on('click', function(){
-    $('#big-menu').show('slow');
+    $('#big-menu').toggle('slow');
 });
