@@ -4886,4 +4886,7 @@ a.text-danger:hover {
   }
 }*/
 #topnav {
-  background: rgba(250, 199, 185, 0.5); }
+  background: rgba(255, 255, 255, 0.35); }
+
+#big-menu h2 {
+  font-size: 88px; }
